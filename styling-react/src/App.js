@@ -1,12 +1,7 @@
 import React, { Component } from "react";
-import StyledComponent from "./StyledComponent";
 class App extends Component {
   render() {
-    return (
-      <div>
-        <StyledComponent />
-      </div>
-    );
+    return <div>Todo App을 만들자!</div>
   }
 }
 
